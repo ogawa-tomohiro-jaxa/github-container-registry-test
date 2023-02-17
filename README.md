@@ -1,1 +1,1 @@
-# github-container-registry-test-
+# github-container-registry-test
